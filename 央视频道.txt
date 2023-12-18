@@ -4,7 +4,6 @@
 凤凰资讯高清,http://113.117.74.179:8081/hls/36/index.m3u8
 凤凰卫视高清,http://113.117.74.179:8081/hls/37/index.m3u8
 凤凰香港高清,http://113.117.74.179:8081/hls/38/index.m3u8
-
 邵氏影院,http://43.138.170.29:35455/douyu/4246519
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
